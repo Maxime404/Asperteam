@@ -1,5 +1,7 @@
 {
   "name": "MySideMenuTabs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
